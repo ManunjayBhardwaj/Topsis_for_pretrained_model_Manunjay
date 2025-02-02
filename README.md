@@ -68,16 +68,6 @@ The analysis demonstrates clear rankings of the models based on their closeness 
 
 ---
 
-## Graphical Visualization
-
-The implementation also provides a graphical representation of the TOPSIS scores for the models. A bar chart is generated to visually compare the performance of each model based on the TOPSIS score.
-
-Here is a sample output for the **bar chart** visualization:
-
-![TOPSIS Score Visualization](image.png) <!-- Add actual image link here -->
-
----
-
 ## Conclusion
 
 In this implementation, we applied the **TOPSIS** method to evaluate and rank pre-trained models for text generation based on multiple criteria such as **BLEU score** (performance), **latency** (speed), and **perplexity** (prediction uncertainty). 
